@@ -1,2 +1,1 @@
-       body { display: flex; justify-content: center; background-color: black; }
-      .__zoomhub __seadragon { width:100% !important; }
+body { display: flex; justify-content: center; background-color: black; } .__zoomhub.__seadragon { width:100% !important; }

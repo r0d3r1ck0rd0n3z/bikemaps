@@ -1,6 +1,14 @@
 # Bikemaps
 Zoomable versions of Taipei riverside bike route maps I've found all over the internet.   
 
+## Taipei maps
+
+Maps that contain Bike Exit info for Taipei  
+
+* [Taipei City variant 1](https://r0d3r1ck0rd0n3z.github.io/bikemaps/TwMapsVar1.html)
+* [Taipei City variant 2](https://r0d3r1ck0rd0n3z.github.io/bikemaps/TwMapsVar2.html)
+* [Taipei City variant 3](https://r0d3r1ck0rd0n3z.github.io/bikemaps/TwMapsVar3.html)
+
 ## New Taipei maps
 
 Maps that contain Bike Exit info for New Taipei  

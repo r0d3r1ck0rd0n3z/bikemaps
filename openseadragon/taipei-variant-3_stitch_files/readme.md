@@ -1,1 +1,1 @@
-This direcotry contains webp images
+This directory contains webp images
